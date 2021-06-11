@@ -1,0 +1,15 @@
+
+
+    .NET - Coded in Visual Basic .NET, requires .NET Framework 4.5
+
+    Codedom - No need for external libraries to compile
+
+    Injection (Silent) - Hide payload behind another process
+
+    Idle Mining - Can be configured to only mine when the computer isn't in use
+
+    Stealth - Pauses the miner while Task Manager, Process Explorer or Process Hacker is open
+
+    Watchdog - Replaces the miner if removed and starts it if closed down
+
+    Ethash - Supports mining all Ethash coins like Ethereum, Ethereum Classic, Metaverse, Ellaism, QuarkChain and others
